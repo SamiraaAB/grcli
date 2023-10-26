@@ -1,0 +1,32 @@
+<section class="section bg-blue-green cta py-5">
+  <div class="container">
+    <div class="row justify-content-center">
+      <div class="col-12 col-xl-6">
+        {{ with .content.title }}
+          <h3 class="fs-1 fw-bold text-center text-primary pb-3">{{ . }}</h3>
+        {{ end }}
+      </div>
+    </div>
+    <div class="row justify-content-center">
+      <div class="col-12 col-xl-6 text-center">
+        {{ with .content.image }}{{ partial "utilities/image-fluid.html" . }}{{ end }}
+      </div>
+    </div>
+    <div class="row justify-content-center">
+      <div class="col-12 col-xl-6 text-center">
+        {{ with .content.text }}
+        <div class="text-center  text-black-61">
+          {{ . }}
+          </div>
+        {{ end }}
+
+        {{ with .content.subtext }}
+        <div class="text-center fw-semibold  text-black-61">
+          {{ . }}
+          </div>
+        {{ end }}
+
+      </div>
+    </div>
+  </div>
+</section>

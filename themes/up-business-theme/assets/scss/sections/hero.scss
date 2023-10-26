@@ -1,0 +1,63 @@
+.section.hero {
+  
+  //background-color: #1c4d8b;
+
+  //background-color: rgb(0,77,139);
+  //background: linear-gradient(180deg, rgba(0,77,139,1) 14%, rgba(107,137,179,1) 56%, rgba(218,225,236,1) 98%);
+
+  .hero-title {
+    color: #dae1ec !important;
+    font-family: "Ubuntu";
+    font-weight: 500;
+    font-size: 2.5rem;
+  }
+  .hero-title-light {
+    color: #dae1ec !important;
+    font-weight: 500;
+    font-size: 2.5rem;
+    text-transform: uppercase;
+  }
+  .hero-sub-title {
+    color: white;
+  }
+
+  .btn-primary {
+    color: #fff;
+    background-color: #5691a4;
+    border-color: white;
+  }
+  .btn-primary:hover {
+  color: #fff;
+  background-color: #366BAD;
+  border-color: #366BAD;
+}
+  .btn-outline-primary {
+    color: white;
+    background-color: #5691a4;
+    border-color: #5691a4;
+}
+.btn-outline-primary:hover {
+  color: #fff;
+  background-color: #366BAD;
+  border-color: #366BAD;
+}
+}
+
+.hero-image {
+  // @media (min-width: 1400px) {
+  //   img {
+  //     max-width: 125%;
+  //     float: right;
+  //   }
+  // }
+ background-image: 
+ //linear-gradient(180deg, rgba(0,77,139,1) 38%, rgba(107,137,179,1) 78%, rgba(218,225,236,1) 98%),
+  url('/images/canva-test4.png');
+  background-size: cover;
+
+ // background: url('/images/background-grcli5.png') no-repeat center center fixed; 
+   //     -webkit-background-size: cover;
+     //   -moz-background-size: cover;
+       // -o-background-size: cover;
+   //    background-size: cover;
+}

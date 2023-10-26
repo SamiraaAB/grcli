@@ -1,0 +1,15 @@
+enabled: true
+id: "hero"
+
+content:
+  title: "Nos experts à votre service"
+  text: "De la conception au déploiement, nos consultants experts en innovation vous accompagnent dans votre transformation digitale."
+
+  buttonPrimary:
+    label: "How we work"
+    url: "#"
+
+  buttonSecondary:
+    label: "Let's talk"
+    url: ""
+
