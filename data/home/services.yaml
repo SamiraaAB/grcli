@@ -6,13 +6,13 @@ content:
   cards:
     - image: "images/services-developpeur.png"
       title: "Développeurs expérimentés"
-      text: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Molestie in malesuada eget fames purus ligula luctus tellus. Habitant condimentum sit gravida praesent. "
+      text: "Que ce soit frontend, backend ou fullstack, nos développeurs passionnés sont formés aux méthodes agiles et experts dans leur domaine."
 
 
     - image: "images/services-devops.png"
       title: "Spécialistes Cloud"
-      text: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Molestie in malesuada eget fames purus ligula luctus tellus. Habitant condimentum sit gravida praesent. "
+      text: "Acteurs incontournables des architectures cloud, nos devops sauront vous apporter leur expertise pour automatiser vos process de déploiement. "
 
     - image: "images/services-moa.png"
       title: "Experts QA, MOA"
-      text: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Molestie in malesuada eget fames purus ligula luctus tellus. Habitant condimentum sit gravida praesent. "
+      text: "Au plus proche du métier, et à l'écoute des développeurs, nos QA et MOA seront les garants d'une bonne communication entre vos équipes. "
