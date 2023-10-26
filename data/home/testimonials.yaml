@@ -1,0 +1,23 @@
+enabled: true
+id: "testimonials"
+
+content:
+  title: "Testimonials"
+
+  featured:
+    image: "images/testimonials-awards.png"
+    text: Nous travaillons avec GRCLI depuis plusieurs années. Chaque consultant avec lequel nous avons travaillé nous a apporté une pleine satisfaction, quel que soit le domaine d'expertise.
+    client: "Clément, Manager chez Mediatransports"
+
+  list:
+    - text: Avec GRCLI la sélection des missions est très ciblée selon mes besoins, les secteurs et technologies qui me plaisent. Cela fait 5 ans que nous collaborons ensemble.
+      client: "Rémy, Développeur front senior"
+      image: "images/testimonials-left-quote.png"
+
+    - text: Le suivi de ma carrière a été continu chez GRCLI, je suis passé de développeur confirmé à Techlead avec leur appui.
+      client: "Gilles, Tech lead Java"
+      image: "images/testimonials-left-quote.png"
+
+    - text: Le choix et la qualité des missions est la raison pour laquelle je suis chez GRCLI depuis 3ans.
+      client: "Sonia, Senior QA"
+      image: "images/testimonials-left-quote.png"

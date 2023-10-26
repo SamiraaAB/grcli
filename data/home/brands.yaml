@@ -1,0 +1,9 @@
+enabled: true
+id: "brands"
+
+content:
+  title: "Ils nous font confiance :"
+  items:
+    - "images/brands-mediatransports.png"
+    - "images/brands-sodexo.png"
+    - "images/brands-cdc.png"

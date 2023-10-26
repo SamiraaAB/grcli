@@ -1,0 +1,18 @@
+enabled: true
+id: "services"
+
+content:
+  title: "Nos services"
+  cards:
+    - image: "images/services-developpeur.png"
+      title: "Développeurs expérimentés"
+      text: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Molestie in malesuada eget fames purus ligula luctus tellus. Habitant condimentum sit gravida praesent. "
+
+
+    - image: "images/services-devops.png"
+      title: "Spécialistes Cloud"
+      text: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Molestie in malesuada eget fames purus ligula luctus tellus. Habitant condimentum sit gravida praesent. "
+
+    - image: "images/services-moa.png"
+      title: "Experts QA, MOA"
+      text: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Molestie in malesuada eget fames purus ligula luctus tellus. Habitant condimentum sit gravida praesent. "

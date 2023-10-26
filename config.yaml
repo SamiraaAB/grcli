@@ -1,0 +1,72 @@
+baseURL: "https://www.example.com/"
+theme: "up-business-theme"
+languageCode: "en-us"
+
+title: "GRCLI"
+
+# googleAnalytics: ""
+
+summaryLength: 20
+
+params:
+  title: "Grcli"
+  description:
+  images: 
+    - "images/hero-image.png"
+
+  logo: "arrow-up.png"
+
+  favicons:
+    themeColor: "#3F2626"
+    backgroundColor: "#3F2626"
+    faviconColor: "#3F2626"
+
+  social:
+    dribbble: "#"
+    instagram: "#"
+    facebook: "#"
+    twitter: "#"
+
+  location:
+
+  contact:
+    - "toto@grcli.com"
+
+  copyright: "© 2024 Tous droits réservés"
+
+menus:
+  main:
+    - name: "Accueil"
+      url: "/#hero"
+      weight: 1
+
+    - name: "Nos services"
+      url: "/#"
+      weight: 2
+
+    - name: "Contactez-nous"
+      url: "/#"
+      weight: 3
+
+  buttons:
+    - name: "Book a call"
+      url: "/#"
+      weight: 5
+      pre: "btn btn-primary text-light"
+
+  footer:
+    - name: "Accueil"
+      url: "/#hero"
+      weight: 1
+
+    - name: "Nos services"
+      url: "/#"
+      weight: 2
+
+    - name: "Contactez nous"
+      url: "/#"
+      weight: 3
+
+taxonomies:
+  series: "series"
+  tags: "tags"
