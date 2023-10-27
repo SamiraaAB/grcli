@@ -5,6 +5,7 @@ content:
   title: "On en parle ? "
   text:  Vous voulez en savoir plus sur nous? Ou sur nos méthodes de travail ? Vous êtes consultant en recherche d'une nouvelle opportunité ?
   subtext: Envoyez nous un mail avec l'objet de votre demande à l'adresse suivante toto@grcli.com
+  image: "images/contact.png"
   button:
     label: "Contactez nous"
     url: "#"

@@ -7,11 +7,7 @@
         {{ end }}
       </div>
     </div>
-    <div class="row justify-content-center">
-      <div class="col-12 col-xl-6 text-center">
-        {{ with .content.image }}{{ partial "utilities/image-fluid.html" . }}{{ end }}
-      </div>
-    </div>
+
     <div class="row justify-content-center">
       <div class="col-12 col-xl-6 text-center">
         {{ with .content.text }}
@@ -26,6 +22,11 @@
           </div>
         {{ end }}
 
+      </div>
+    </div>
+    <div class="row justify-content-center">
+      <div class="col-12 col-xl-6 text-center py-4">
+        {{ with .content.image }}{{ partial "utilities/image-third.html" . }}{{ end }}
       </div>
     </div>
   </div>
