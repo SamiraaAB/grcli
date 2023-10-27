@@ -7,9 +7,9 @@ content:
 
   buttonPrimary:
     label: "Nos services"
-    url: "#"
+    url: "#services"
 
   buttonSecondary:
     label: "On en parle ?"
-    url: ""
+    url: "#cta"
 

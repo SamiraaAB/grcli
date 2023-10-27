@@ -37,15 +37,15 @@ params:
 menus:
   main:
     - name: "Accueil"
-      url: "/#hero"
+      url: "/"
       weight: 1
 
     - name: "Nos services"
-      url: "/#"
+      url: "/#services"
       weight: 2
 
     - name: "Contactez-nous"
-      url: "/#"
+      url: "/#cta"
       weight: 3
 
   buttons:
@@ -56,15 +56,15 @@ menus:
 
   footer:
     - name: "Accueil"
-      url: "/#hero"
+      url: "/#"
       weight: 1
 
     - name: "Nos services"
-      url: "/#"
+      url: "/#services"
       weight: 2
 
     - name: "Contactez nous"
-      url: "/#"
+      url: "/#cta"
       weight: 3
 
 taxonomies:
